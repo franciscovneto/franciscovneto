@@ -1,7 +1,7 @@
 # Francisco Vieira
 
 ## 💫 Sobre Mim
-Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Atualmente, foco em **[Desenvolvimento Fullstack]** e busco constantemente aprender novas tecnologias.
+Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Atualmente, foco em **Desenvolvimento Fullstack** e busco constantemente aprender novas tecnologias.
 
 ---
 
